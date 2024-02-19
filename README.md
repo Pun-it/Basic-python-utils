@@ -1,7 +1,5 @@
 # <h1>Bascic Python Utils
-<h2>Files include :
-<p>
-  
-</p>
+
+Some random python files to do some some random things that might be helpful.
 
 
